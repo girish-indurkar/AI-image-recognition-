@@ -67,7 +67,7 @@ Built and tested entirely in **Google Colab**, this project covers:
 
 ---
 - **CIFAR-10 Preview**
-<img width="1610" height="574" alt="Screenshot 2025-08-14 014434" src="https://github.com/user-attachments/assets/c8b40a0f-3a80-4aa6-9e7c-d31d0fa449e8" />[Uploading screen-capture (1).webm…]()
+<img width="1610" height="574" alt="Screenshot 2025-08-14 014434" src="https://github.com/user-attachments/assets/c8b40a0f-3a80-4aa6-9e7c-d31d0fa449e8" />
 
 
 
