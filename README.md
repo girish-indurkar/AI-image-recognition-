@@ -7,14 +7,14 @@
 ---
 
 ## 📌 About This Project
-**CIFAR-10 AI Agent Bootcamp** is a hands-on, project-based journey into modern computer vision.  
+**CIFAR-10 AI Agent** is a hands-on, project-based journey into modern computer vision.  
 Built and tested entirely in **Google Colab**, this project covers:
 
-- **Day 1:** Dataset download, CIFAR-10 exploration, preprocessing, and visualization
-- **Day 2:** Building and training a CNN from scratch (TensorFlow/Keras)
-- **Day 3:** Data augmentation, batch normalization, and advanced model training
-- **Day 4:** Transfer learning with MobileNetV2
-- **Day 5:** Model evaluation, confusion matrix, misclassified examples, Gradio deployment
+- **1:** Dataset download, CIFAR-10 exploration, preprocessing, and visualization
+- **2:** Building and training a CNN from scratch (TensorFlow/Keras)
+- **3:** Data augmentation, batch normalization, and advanced model training
+- **4:** Transfer learning with MobileNetV2
+- **5:** Model evaluation, confusion matrix, misclassified examples, Gradio deployment
 
 ---
 
@@ -67,6 +67,7 @@ Built and tested entirely in **Google Colab**, this project covers:
 
 ---
 - **CIFAR-10 Preview**
-<img width="1610" height="574" alt="Screenshot 2025-08-14 014434" src="https://github.com/user-attachments/assets/c8b40a0f-3a80-4aa6-9e7c-d31d0fa449e8" />
+<img width="1610" height="574" alt="Screenshot 2025-08-14 014434" src="https://github.com/user-attachments/assets/c8b40a0f-3a80-4aa6-9e7c-d31d0fa449e8" />[Uploading screen-capture (1).webm…]()
+
 
 
