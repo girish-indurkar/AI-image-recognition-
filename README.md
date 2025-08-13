@@ -1,5 +1,4 @@
-# 🚀 CIFAR-10 AI Agent — 5 Days Bootcamp
-
+# 🚀 CIFAR-10 AI Agent — Image Recognition Agent
 ![DeepLearning](https://img.shields.io/badge/DeepLearning-TensorFlow-orange)
 ![TensorFlow](https://img.shields.io/badge/Framework-TF2.0-blue)
 ![Colab](https://img.shields.io/badge/Google-Colab-yellow)
@@ -58,10 +57,13 @@ Built and tested entirely in **Google Colab**, this project covers:
 - **Test Accuracy:** ~90% after fine-tuning
 - **Training Curves:**  
 
-  *! ![alt text](image-4.png) ![alt text](image-5.png) *
+  *!  *<img width="990" height="374" alt="download" src="https://github.com/user-attachments/assets/1e8bc068-3618-4dab-9d43-25e5dbcbb995" />
+<img width="981" height="374" alt="download" src="https://github.com/user-attachments/assets/5858e375-a799-4ad9-847a-c720d6c5ee60" />
+
 - **Confusion Matrix:**  
 
-  *![alt text](image-6.png)*
+<img width="763" height="755" alt="download" src="https://github.com/user-attachments/assets/511d9126-376f-4d6b-9f6b-5f0873b09b0c" />
+
 
 ---
 
