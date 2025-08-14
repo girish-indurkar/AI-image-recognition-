@@ -1,3 +1,4 @@
+[screen-capture (1).webm](https://github.com/user-attachments/assets/44a1886f-e592-41b6-8a79-bce7f377e15c)
 # 🚀 CIFAR-10 AI Agent — Image Recognition Agent
 ![DeepLearning](https://img.shields.io/badge/DeepLearning-TensorFlow-orange)
 ![TensorFlow](https://img.shields.io/badge/Framework-TF2.0-blue)
@@ -67,7 +68,10 @@ Built and tested entirely in **Google Colab**, this project covers:
 
 ---
 - **CIFAR-10 Preview**
-<img width="1610" height="574" alt="Screenshot 2025-08-14 014434" src="https://github.com/user-attachments/assets/c8b40a0f-3a80-4aa6-9e7c-d31d0fa449e8" />
+<img width="1610" height="574" alt="Screenshot 2025-08-14 014434" src="https://github.com/user-attachments/assets/c8b40a0f-3a80-4aa6-9e7c-d31d0fa449e8" 
+ 
+- **DEMO VIDEO**  
+[screen-capture (1).webm](https://github.com/user-attachments/assets/103b9a93-2fa0-4a0b-9975-8ca3bd0660f6)
 
 
 
